@@ -1,6 +1,7 @@
 ## Prerequisites
 - Python 3.11 (for local setup)
 - GitHub account
+- PostgreSQL
 
 ## Setup
 
