@@ -1,0 +1,11 @@
+curl -X POST "http://localhost:8000/vectorize" \
+ -H "Content-Type: application/json" \
+ -d '{
+  "name": "repo_name",
+  "github_url": "https://github.com/owner/repo",
+  "branch": "main",
+  "auth0_id": "user-auth0-id",
+  "email": "example@example.com",
+  "first_name": "John",
+  "last_name": "Doe"
+}'
