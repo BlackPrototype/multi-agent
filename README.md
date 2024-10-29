@@ -1,3 +1,8 @@
+## NEW:
+- psql agent: natural language -> SQL
+- review agent: new prompt
+- vectorize: postgresql vector databse and new commands
+
 ## Prerequisites
 - Python 3.11 (for local setup)
 - GitHub account
